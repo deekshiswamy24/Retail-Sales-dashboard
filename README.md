@@ -29,4 +29,7 @@ The dashboard is designed for ease of use, with interactive filters, slicers, an
 The Retail Sales Dashboard empowers retail decision-makers with actionable insights, enabling them to adapt to market dynamics, make informed  decisions, and drive profitability. It serves as a vital tool for enhancing sales strategies.
 
 
+[RetailSalesdashboard.pbix](https://github.com/deekshiswamy24/Retail-Sales-dashboard/blob/main/RetailSalesdashboard.pbix)
+
+
 
