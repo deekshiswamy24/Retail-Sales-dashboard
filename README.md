@@ -34,4 +34,5 @@ The Retail Sales Dashboard empowers retail decision-makers with actionable insig
 
 
 
+![retailsalesboard](https://github.com/deekshiswamy24/Retail-Sales-dashboard/assets/94545024/2eda5ef1-b810-445b-acde-b255e24931e4)
 
