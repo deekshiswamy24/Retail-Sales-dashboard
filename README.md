@@ -32,4 +32,7 @@ The Retail Sales Dashboard empowers retail decision-makers with actionable insig
 [RetailSalesdashboard.pbix](https://github.com/deekshiswamy24/Retail-Sales-dashboard/blob/main/RetailSalesdashboard.pbix)
 
 
+[Re[retailsalesboard.png](https://github.com/deekshiswamy24/Retail-Sales-dashboard/blob/main/retailsalesboard.png)
+
+
 
